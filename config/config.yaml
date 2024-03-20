@@ -1,0 +1,9 @@
+env: local
+
+redis:
+  url: localhost:6379
+
+flood:
+  max: 10
+  dur: 10
+
